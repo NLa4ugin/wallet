@@ -6,4 +6,4 @@ This document outlines security procedures and general policies for the `Ai Wall
 We have a [**bug bounty program**](https://docs.wallet.ai/bug_bounty/). Please report any security issues you find, or reach out to `developer@wallet.ai`. Please try to be as explicit as possible, describing all the steps and example code to reproduce the security issue.
 
 Critical bug fixes will be backported to past major releases.
-dssd top check day
+dssd top check day1
